@@ -9,7 +9,7 @@ from tinydb import TinyDB
 
 def AddToDatabase(game_list, games_database):
     for games in game_list:
-        #print('yeah')
+        # print('yeah')
         url = games['url'].split('/store/apps/details?id=')
         url = url[1]
         goOn = True
@@ -25,14 +25,14 @@ def AddToDatabase(game_list, games_database):
             )
             # print(result)
 
-            if(type(result['score']) != None):
-                if (type(result['contentRating']) != None):
+            if(type(result['score']) is not None):
+                if (type(result['contentRating']) is not None):
                     if (result['score'] >= 4):
                         if(result['contentRating'] == "Everyone"):
                             games_database.append(game(games['title'], url, result['score'], result['contentRating']))
                             print("added " + url)
                         else:
-                            print("not for everyone " + result['contentRating'] + " "+ url)
+                            print("not for everyone " + result['contentRating'] + " " + url)
                     else:
                         print("score too low " + str(result['score']) + " " + url)
                 else:
@@ -40,13 +40,14 @@ def AddToDatabase(game_list, games_database):
             else:
                 print("score not found " + url)
 
-            return (games_database)
+            return games_database
 
 # Non ho usato il database che ci hanno dato in classe, ho usato subito le librerie online
 # Nonostante quello che dice nelle slide, non serve usare la libreria json per
 # interfacciarsi con i risultati delle librerie del play store
 
 # Solita classe che contiene le informazioni che ci interessano:
+
 class game:
     title = ''
     url = ''
@@ -63,12 +64,14 @@ class game:
 # lista che contiene tutti i giochi trovati
 all_games = []
 
-# uso la libreria play_scraper per cercare nell'intero database di google play quelli educativi (BISOGNA ESPANDERE STA RICERCA IN MANIERA SENSATA)
+# uso la libreria play_scraper per cercare nell'intero database di google play quelli educativi (BISOGNA ESPANDERE STA
+# RICERCA IN MANIERA SENSATA)
 
-#keywords_general = ['serious game']
+# keywords_general = ['serious game']
 keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family']
 keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
-                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded', 'down syndrome']
+                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded',
+                    'down syndrome']
 # write a code that combines all the words, and then search for all the results
 
 for word in keywords_general:
@@ -115,4 +118,3 @@ print(len(all_games))
 
 db = TinyDB('./lab04DB.json')
 """
-
