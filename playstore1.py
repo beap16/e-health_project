@@ -24,8 +24,9 @@ def AddToDatabase(game_list, games_database):
                 lang='en',  # defaults to 'en'
                 country='us',  # defaults to 'us'
             )
-            # print(result)
+
             print(url)
+
             if(type(result['score']) is float):
                 if (type(result['contentRating']) is not None):
                     if (result['score'] >= 4):
