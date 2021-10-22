@@ -8,7 +8,7 @@ from tinydb import TinyDB
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # le librerie sono: play-scraper, google-play-scraper, google-play-scraper-py, pandas, tinydb
-allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL', 'HEALTH_AND_FITNESS']
+allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL', 'HEALTH_AND_FITNESS', 'PARENTING']
 
 def AddToDatabase(game_list, games_database):
     for games in game_list:
