@@ -36,7 +36,7 @@ def AddToDatabase(game_list, games_database):
                     if (type(result['contentRating']) is not None):
                         if (result['score'] >= 4):
                             if(result['contentRating'] == "Everyone"):
-                                games_database.append(game(games['title'], url, result['score'], result['contentRating']))
+                                games_database.append(game(games['title'], url, result['score'], result['contentRating'], category[0]))
                                 print("added " + url)
                             else:
                                 print("not for everyone " + result['contentRating'] + " " + url)
@@ -62,12 +62,14 @@ class game:
     url = ''
     rating = 0
     age_range = ''
+    category = ''
 
-    def __init__(self, titolo, url_, voto, eta):
+    def __init__(self, titolo, url_, voto, eta, categoria):
         self.title = titolo
         self.url = url_
         self.rating = voto
         self.age_range = eta
+        self.category = categoria
 
 
 # lista che contiene tutti i giochi trovati
@@ -76,12 +78,12 @@ all_games = []
 # uso la libreria play_scraper per cercare nell'intero database di google play quelli educativi (BISOGNA ESPANDERE STA
 # RICERCA IN MANIERA SENSATA)
 
-keywords_general = ['serious game']
-#keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
-#keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
-#                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded',
-#                    'down syndrome', 'motor', 'disabled', 'disability', 'disease', 'clinical', 'critical situations']
-keywords_onetime = []
+#keywords_general = ['serious game']
+keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
+keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
+                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
+                    'down syndrome', 'disabled', 'disability', 'clinical', 'specific learning disorder']
+#keywords_onetime = []
 # write a code that combines all the words, and then search for all the results
 
 for word in keywords_general:
