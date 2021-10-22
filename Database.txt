@@ -4,3 +4,695 @@
 2,Adventure Academy,com.aofl.adventureacademy,['GAME_EDUCATIONAL'],4.210647
 3,PBS KIDS Games,org.pbskids.gamesapp,['GAME_EDUCATIONAL'],4.0645275
 4,Starfall.com,air.com.starfall.more,['EDUCATION'],4.066722
+5,"Fairy Tales ~ Children’s Books, Stories and Games",com.amayasoft.bookstorem4.en,['GAME_EDUCATIONAL'],4.511034
+6,Let's Read - Digital Library of Children's Books,org.asiafoundation.letsread,['EDUCATION'],4.57
+7,Bible App for Kids: Audio & Interactive Stories,com.bible.kids,['EDUCATION'],4.3872747
+8,GCompris Educational Game for Children,net.gcompris.full,['GAME_EDUCATIONAL'],4.029703
+9,"Math Kids - Add, Subtract, Count, and Learn",com.rvappstudios.math.kids.counting,['GAME_EDUCATIONAL'],4.2711797
+10,Kids Fairy Tales - Children Offline Story Videos,com.videogyan.kids_fairy_tales,['EDUCATION'],4.2695036
+11,ABC Kids - Tracing & Phonics,com.rvappstudios.abc_kids_toddler_tracing_phonics,['GAME_EDUCATIONAL'],4.2446775
+12,Raising Children,nz.org.raisingchildren.app,['EDUCATION'],4.3333335
+13,Language Therapy for Children with Autism (MITA),com.imagiration.mita,['EDUCATION'],4.489614
+14,Spelling & Phonics: Kids Games,com.rvappstudios.abc.spelling.toddler.spell.phonics,['GAME_EDUCATIONAL'],4.4645286
+15,KOBI - Helps Children Read,si.hopalai.kobi.kobi,['EDUCATION'],4.34
+16,Bedtime Stories for Kids - Story Books to Read,com.internetdesignzone.aesopfables,['EDUCATION'],4.308765
+17,Chimple Kids - A Free Learning App for Children,org.chimple.bahama,['GAME_EDUCATIONAL'],4.22
+18,ABCD English Childrens App & Educational Games,com.whizkidzmedia.youhuu,['EDUCATION'],4.6079855
+19,Mathematics for children,com.SFGames.MathAdventure,['GAME_EDUCATIONAL'],4.69
+20,Math Master Kids - Math game for Children,net.chokolovka.sonic.mathmasterkids,['GAME_EDUCATIONAL'],4.24
+21,SoyMomo - Mobile GPS watch for children,com.sosmartlabs.momo,['PARENTING'],4.334862
+22,"Colors for Kids, Toddlers, Babies - Learning Game",com.oki.colors,['GAME_EDUCATIONAL'],4.100822
+23,Childrens Countdown Timer - Visual Timer For Kids,com.fehnerssoftware.visualtimer,['EDUCATION'],4.34
+24,EWA Kids: English for children,com.ewa.ewakids,['EDUCATION'],4.6039605
+25,Kids Songs - Offline Nursery Rhymes & Baby Songs,com.duasaudara.kidssongs,['GAME_EDUCATIONAL'],4.2400513
+26,The Happy Child - Parenting App,com.hip.app,['EDUCATION'],4.9138494
+27,Yoga for Kids and Family fitness - Easy Workout,com.fitnessapps.yogakidsworkouts,['HEALTH_AND_FITNESS'],4.5389504
+28,Khan Academy Kids,org.khankids.android,['EDUCATION'],4.644789
+29,Khan Academy,org.khanacademy.android,['EDUCATION'],4.5071125
+30,Epic: Kids' Books & Educational Reading Library,com.getepic.Epic,['EDUCATION'],4.264634
+31,Brilliant,org.brilliant.android,['EDUCATION'],4.6256485
+32,Lingokids - kids playlearning™,es.monkimun.lingokids,['EDUCATION'],4.429922
+33,Kiddopia,com.paperboatapps.google.kiddopia,['EDUCATION'],4.0351562
+34,"TinyTap - Educational Games for Kids, by Teachers.",tinytap.kids.learning.games,['EDUCATION'],4.576271
+35,Make It - Create Educational Games & Quizzes,com.planetfactory.makeitAndroid,['EDUCATION'],4.0454545
+36,Educational Puzzles for Kids (Preschool),forqan.tech.babypuzzles_edu.ads,['EDUCATION'],4.04697
+37,Endless Alphabet,com.originatorkids.EndlessAlphabet,['EDUCATION'],4.4236016
+38,Sago Mini Dinosaurs,com.sagosago.Dinosaurs.googleplay,['EDUCATION'],4.3960395
+39,Moose Math by Duck Duck Moose,com.duckduckmoosedesign.km,['EDUCATION'],4.3656716
+40,Keiki Educational ABC Puzzle Games for Kids & Baby,gen.tech.keiki.world.learning,['GAME_EDUCATIONAL'],4.321332
+41,ABC PreSchool Kids Tracing & Phonics Learning Game,com.gamesforkids.preschoolworksheets.alphabets,['GAME_EDUCATIONAL'],4.143038
+42,Writing Wizard - Kids Learn Letters & Phonics,com.lescapadou.tracingfree,['EDUCATION'],4.044025
+43,Zigzag Puppy Training App – Easy Training for Dogs,nl.navara.zigzag,['EDUCATION'],4.6960783
+44,Human body (male) educational VR 3D,com.rendernet.humanmale,['EDUCATION'],4.620612
+45,"Educational Worksheets for Pre School, Pre k and K",com.bts.xplorabox,['EDUCATION'],4.7524753
+46,Kids Education (Preschool),forqan.tech.iq_brain_trainer,['GAME_EDUCATIONAL'],4.339827
+47,Funny Food! Educational games for kids 3 years old,biz.arrowstar.funnyfood2,['GAME_EDUCATIONAL'],4.2418895
+48,Sesame Street Alphabet Kitchen,com.sesameworkshop.alphabetkitchen.play,['GAME_EDUCATIONAL'],4.1470294
+49,Multiplication Kids - Math Multiplication Tables,com.rvappstudios.kids.multiplication.games.multiply.math,['GAME_EDUCATIONAL'],4.0522523
+50,Kids Learn Professions,com.forqan.tech.Jobs,['EDUCATION'],4.0013947
+51,Early Learning App For Kids,earlylearn.kidslearningworld,['EDUCATION'],4.344685
+52,Kids Educational Games: Preschool and Kindergarten,air.com.shubi.LearnCNLW.english,['GAME_EDUCATIONAL'],4.2473574
+53,Brain Games Kids,com.pescapps.BrainGames,['GAME_EDUCATIONAL'],4.2134733
+54,Kids Educational Game 5,com.pescapps.gamekids5,['GAME_EDUCATIONAL'],4.2104907
+55,Educational Games for Kids - Colors Numbers Shapes,com.kids.educational.games,['EDUCATION'],4.1
+56,Kindergarten kid Learning Game,com.greysprings.kindergarten8,['EDUCATION'],4.3001184
+57,LinkedIn Learning: Online Courses to Learn Skills,com.linkedin.android.learning,['EDUCATION'],4.7217712
+58,Learning,com.intuition.herbalife,['HEALTH_AND_FITNESS'],4.064394
+59,Duolingo: language lessons,com.duolingo,['EDUCATION'],4.6794686
+60,Great Learning - Free Online Courses,com.lms.greatlakes,['EDUCATION'],4.4412813
+61,Quizlet: Learn Languages & Vocab with Flashcards,com.quizlet.quizletandroid,['EDUCATION'],4.656312
+62,"Rosetta Stone: Learn, Practice & Speak Languages",air.com.rosettastone.mobile.CoursePlayer,['EDUCATION'],4.633601
+63,"Language Learning - Spanish, Korean, French & More",com.memrise.android.memrisecompanion,['EDUCATION'],4.6459284
+64,BYJU’S Learning App featuring Disney,com.tangibleplay.k3us,['EDUCATION'],4.2597404
+65,"Enki: Learn data science, coding, tech skills",com.enki.insights,['EDUCATION'],4.602368
+66,Excellence Learning Hub,me.createforlife.excellence.assessmentandroid,['EDUCATION'],4.5142856
+67,Udemy - Online Courses,com.udemy.android,['EDUCATION'],4.4275084
+68,Practically - Learning app,com.thirdflix.practically,['EDUCATION'],4.0207853
+69,Preply: Learn any language,com.preply,['EDUCATION'],4.1298075
+70,Grasshopper: Learn to Code,com.area120.grasshopper,['EDUCATION'],4.6816063
+71,"Cuemath: Math Games, Online Classes & Learning App",com.cuelearn.cuemathapp,['EDUCATION'],4.4214797
+72,Preschool and Kindergarten Learning Games,com.kevinbradford.games.preschoolgames,['GAME_EDUCATIONAL'],4.0731707
+73,LingoDeer - Learn Languages,com.lingodeer,['EDUCATION'],4.628816
+74,Programming Hub: Learn to code,com.freeit.java,['EDUCATION'],4.6903462
+75,"Mimo: Learn coding in HTML, JavaScript, Python",com.getmimo,['EDUCATION'],4.693231
+76,FlashAcademy® - Language Learning,com.learninglabs.flashsticks,['EDUCATION'],4.2533937
+77,Kids Spelling Learning - Learn to spell and speak,com.ashvindalwadi.kidsspellinglearning,['EDUCATION'],4.17342
+78,upGrad - Online Learning Courses,com.upgrad.student,['EDUCATION'],4.3415575
+79,ELSA - Learn English Speaking,us.nobarriers.elsa,['EDUCATION'],4.6348767
+80,Cornerstone Learn,com.csod.learning,['EDUCATION'],4.568513
+81,Learn 33 Languages Free - Mondly,com.atistudios.mondly.languages,['EDUCATION'],4.6356153
+82,Babbel - Learn Languages,com.babbel.mobile.android.en,['EDUCATION'],4.562197
+83,Learn Languages with Music,com.elasthink.lyricstraining,['EDUCATION'],4.8122673
+84,Pimsleur - Learn Conversation,com.simonandschuster.pimsleur.unified.android,['EDUCATION'],4.5197
+85,italki: Learn languages with native speakers,com.italki.app,['EDUCATION'],4.2496834
+86,Lingvist: Learn Languages Fast,io.lingvist.android,['EDUCATION'],4.240922
+87,iSpring Learn,com.ispring.islearn,['EDUCATION'],4.7943263
+88,Mindvalley: Learn and Transform Your Life,com.mindvalley.mva,['EDUCATION'],4.4779773
+89,"Beelinguapp: Learn Spanish, English, French & More",com.david.android.languageswitch,['EDUCATION'],4.600661
+90,Speakly: Learn Languages Free,com.owlab.speakly,['EDUCATION'],4.465483
+91,Learn Tagalog Language with Master Ling,com.simyasolutions.ling.fil,['EDUCATION'],4.65873
+92,"Innovative 101: Learn Spanish, English, & 32 more",com.innovativelanguage.innovativelanguage101,['EDUCATION'],4.6151824
+93,"LearnMatch: Learn Languages, Learn English",net.learnmatch.app,['EDUCATION'],4.514947
+94,Learn AI & ML with Python,ai.artificialintelligence.artificial.intelligence.programming.learn.coding.robotics.leanai,['EDUCATION'],4.61
+95,Learn Hebrew Free,com.language.learnhebrew,['EDUCATION'],4.592908
+96,Encode: Learn to Code,com.upskew.encode,['EDUCATION'],4.514235
+97,Learn Cyber Security & Online Security Systems,cyber.security.learn.programming.coding.hacking.software.development.cybersecurity,['EDUCATION'],4.700637
+98,Speekoo - Learn a new language,com.speekoo.app_fr,['EDUCATION'],4.8470154
+99,"Learn DS & Algo, Programming Interview Preparation",free.programming.programming,['EDUCATION'],4.4256883
+100,Educational games for kids,com.appquiz.educational.games,['GAME_EDUCATIONAL'],4.284781
+101,Educative Matching Pairs Free,vfc.memory.free,['GAME_EDUCATIONAL'],4.5
+102,Learn to Read with Tommy Turtle,com.intellijoy.android.reading.free,['GAME_EDUCATIONAL'],4.273559
+103,Kids Educational Game Free,com.pescapps.gamekidsfree,['GAME_EDUCATIONAL'],4.2606597
+104,Math learning for kids,com.developdroid.mathforkids,['GAME_EDUCATIONAL'],4.141141
+105,123 Numbers - Count & Tracing,com.rvappstudios.numbers123.toddler.counting.tracing,['GAME_EDUCATIONAL'],4.3030305
+106,Educative Gospel Videos,com.videopro.educativegospelvideos,['EDUCATION'],4.8
+107,Educational Games 4 Kids,com.pescapps.game4kids,['GAME_EDUCATIONAL'],4.165619
+108,Codecademy Go,com.ryzac.codecademygo,['EDUCATION'],4.649312
+109,O'Reilly,com.safariflow.queue,['EDUCATION'],4.40201
+110,Pluralsight – The Technology Skills Platform,com.pluralsight,['EDUCATION'],4.6242003
+111,Coursera,org.coursera.android,['EDUCATION'],4.195688
+112,Kids Preschool Learning Games - 150 Toddler games,com.kids.preschool.learning.games,['GAME_EDUCATIONAL'],4.3363805
+113,Knowledge: Learn more about the universe,com.hselmi.kip,['EDUCATION'],4.21
+114,My Town: Home Doll house - Family Playhouse,mytown.home,['GAME_EDUCATIONAL'],4.238525
+115,Microsoft Family Safety,com.microsoft.familysafety,['PARENTING'],4.009242
+116,My Family - Family Locator,family.tracker.my,['PARENTING'],4.259491
+117,OurFamilyWizard Co-Parent App,com.ourfamilywizard,['PARENTING'],4.4217687
+118,Pepi House: Happy Family,com.pepiplay.pepihome,['GAME_EDUCATIONAL'],4.0692725
+119,"Qeepsake: Family Album, Baby Book, Memory Journal",co.qeepsake.qeepsakeApp,['PARENTING'],4.7867436
+120,"Pedagogy: NEET, JEE, NET Books & Courses",study.pedagogy.android,['EDUCATION'],4.6269665
+121,Pedagogy Teaching Skills Education MCQs,com.sineixlabs.mcqshivepedagogy,['EDUCATION'],4.755102
+122,PedagogicalAura - The Learning App,com.pedagogicalaura,['EDUCATION'],4.852941
+123,CTET Pedagogy In Urdu,com.baigacademy_in.ctet.pedagogyinurdu,['EDUCATION'],4.047619
+124,Pedagogy MCQ,com.jdapp.pedagogymcq,['EDUCATION'],4.178571
+125,Child Development and Pedagogy in Hindi,nirguru.childdevelopmentinhindi,['EDUCATION'],4.010101
+126,Planboard - Free Lesson Planner for Teachers,com.chalk.planboard,['EDUCATION'],4.5897436
+127,CTET 2020 Child Development And Pedagogy,io.kodular.ankushkumarpal22.CTET_2019,['EDUCATION'],4.3846154
+128,Planbook Mobile,com.planbook.lessonplanner,['EDUCATION'],4.8
+129,Methods of Teaching - An educational app,com.studetnsapps.methodsofteaching,['EDUCATION'],4.318182
+130,Learnflix-Personalised Learning App for Class 6-10,com.learnflix,['EDUCATION'],4.1567163
+131,B.ed exam Course,com.bedxm.crselrng,['EDUCATION'],4.1923075
+132,UPTET PREPARATION,com.uptet.pedagogy.uptet2019,['EDUCATION'],4.23
+133,Becoming a Teacher,becoming.a.teacher,['EDUCATION'],4.357143
+134,Children's Bedtime Meditations for Sleep & Calm,com.sleepmeditations.childernsbedtime,['HEALTH_AND_FITNESS'],4.53
+135,Jumpy Car ADHD,pt.ivopintoo.jumpy.car.adhd.free,['GAME_EDUCATIONAL'],4.09
+136,Magic Land ADHD - Learning School Tasks By Playing,com.jankopia.magiclandadhd,['GAME_EDUCATIONAL'],4.1707315
+137,ADHDecoder - Rewire your Brain,com.adhd.decoder,['EDUCATION'],4.2105265
+138,Fabulous Daily Routine Planner,co.thefabulous.app,['HEALTH_AND_FITNESS'],4.560416
+139,Bearable - Symptoms & Mood tracker,com.bearable,['HEALTH_AND_FITNESS'],4.64759
+140,AutiSpark: Kids Autism Games,com.iz.autispark.kids.autism.games.special.needs.educational.learning.therapy.social.skills.speech,['GAME_EDUCATIONAL'],4.22
+141,CogniFit - Test & Brain Games,com.cognifit.app,['HEALTH_AND_FITNESS'],4.3941607
+142,InnerHour Self-Care Therapy: Anxiety & Depression,com.theinnerhour.b2b,['HEALTH_AND_FITNESS'],4.5484247
+143,Memory & Attention Training for Kids,com.hedgehogacademy.memoryattentionlite,['GAME_EDUCATIONAL'],4.37587
+144,The Tapping Solution,com.datechnologies.tappingsolution,['HEALTH_AND_FITNESS'],4.4684286
+145,Peak – Brain Games & Training,com.brainbow.peak.app,['EDUCATION'],4.3286066
+146,Healthy Minds Program,com.healthyminds,['HEALTH_AND_FITNESS'],4.714286
+147,MindPal - Brain Training,com.elektron.mindpal,['EDUCATION'],4.364795
+148,NeuroNation - Brain Training & Brain Games,air.nn.mobile.app.main,['EDUCATION'],4.574851
+149,Lumosity: Brain Training,com.lumoslabs.lumosity,['EDUCATION'],4.4399204
+150,Left vs Right: Brain Training Games,com.mochibits.google.leftvsright,['GAME_EDUCATIONAL'],4.4799337
+151,Memorado - Brain Games,com.memorado.brain.games,['EDUCATION'],4.3853817
+152,Piku - Calm Kids,com.kadadesigns.pikuus,['HEALTH_AND_FITNESS'],4.291139
+153,Happy Kids Timer Morning & Evening Routine Chores,com.evoprox.morningroutines,['PARENTING'],4.418495
+154,Timo Kids Routine Timer - from Morning to Evening,com.timo.time,['PARENTING'],4.194175
+155,Motivator of good behavior - Kids 24,rgmobile.com.sun,['PARENTING'],4.64
+156,Kids ToDo List,jp.co.litalico.kidstodolist,['EDUCATION'],4.4521737
+157,Positive Parenting Solutions,com.parenting.android,['PARENTING'],4.91
+158,Fun Routine - Visual schedules,br.com.phaneronsoft.rotinadivertida,['PARENTING'],4.029703
+159,MamaZen: Mindful Parenting for Raising Happy Kids,com.mamazen.app,['PARENTING'],4.757282
+160,Kids Brain Trainer (Preschool),brilliant.sari,['GAME_EDUCATIONAL'],4.0210357
+161,"Talking ABA Cards - Kids Language Therapy, Autism",com.innovativeworldapps.cardtalk,['EDUCATION'],4.105263
+162,Card Talk,jp.co.litalico.cardtalk,['EDUCATION'],4.490741
+163,Readability – Learn Reading & Comprehension,com.readability.androidapp,['EDUCATION'],4.4903846
+164,CBT Companion: (Cognitive Behavioral Therapy app),co.swasth.cbtcompanion,['HEALTH_AND_FITNESS'],4.657718
+165,"Family360 - Family Locator, GPS Tracker for Safety",com.testlab.family360,['PARENTING'],4.114286
+166,"Family Tools: Family Organizer, Calendar & Planner",app.familytools.twa,['PARENTING'],4.0652175
+167,Chores & Allowance Bot,com.wingboat.AllowanceBot,['PARENTING'],4.385321
+168,Manatee: Mental health for families,com.manateeandme.app,['HEALTH_AND_FITNESS'],4.285714
+169,ABA Cards: Flashcards for Autism Therapy,com.ludenio.r8rf,['EDUCATION'],4.1568627
+170,"CBT Thought Diary - Mood Tracker, Journal & Record",com.moodtools.cbtassistant.app,['HEALTH_AND_FITNESS'],4.538961
+171,Dyslexia Reading Test,com.onlinereadingtutor,['EDUCATION'],4.07
+172,Augmenta11y – Dyslexia-friendly reading app,com.oswaldlabs.augmenta11y,['EDUCATION'],4.0857143
+173,Dytective para dislexia. Mejora tu lecto-escritura,org.changedyslexia.newdytective,['EDUCATION'],4.563063
+174,Easy Spelling Aid + Translator & Dyslexia Support,com.nuapp.easyspelling,['EDUCATION'],4.0666666
+175,Kids Story Books Pre-school + Dyslexia: LOLA SLUG,com.giuliaolivares.lolaslug001,['EDUCATION'],4.2777777
+176,VR In the shoes of a child with Dyslexia,net.smileandlearn.dyslexia,['EDUCATION'],4.2727275
+177,GALEXIA Reading Fluency,com.PambuDev.galexia,['GAME_EDUCATIONAL'],4.34
+178,Ultimate Phonics Reading App,com.spencerlearning.ultimatephonics,['EDUCATION'],4.2178216
+179,Teach Your Monster to Read: Phonics & Reading Game,com.teachyourmonstertoread.tmapp,['GAME_EDUCATIONAL'],4.329114
+180,Kids Spelling & Reading Games,com.iz.kids.word.search.games.spelling.words.vocabulary.letters.kindergarten.preschool.learning,['GAME_EDUCATIONAL'],4.06
+181,SplashLearn: Kids Math & Reading Learning Games,com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath,['EDUCATION'],4.107843
+182,Visual Reading® – special education,com.normex.visualreadingenginapp,['EDUCATION'],4.29
+183,Phonics: Reading Games for Kids & Spelling Apps,com.binibambini.supersyllables,['GAME_EDUCATIONAL'],4.530303
+184,Tablexia,cz.nic.tablexia,['GAME_EDUCATIONAL'],4.11
+185,Learn to Read: Kids Games,com.rvappstudios.sight.words.phonics.reading.kids.games,['GAME_EDUCATIONAL'],4.1348314
+186,Spelling and Grammar,com.holucent.grammar,['EDUCATION'],4.45
+187,Kids Learn English Reading: Learn how to pronounce,com.ackad.kidslearnenglishreading,['EDUCATION'],4.304348
+188,ANTON - the free elementary school learning app,com.solocode.anton,['EDUCATION'],4.818345
+189,Sir Linkalot Spelling,com.sirlinkalot.kaldor,['EDUCATION'],4.075472
+190,Phonogram Sounds,com.allaboutlearningpress.phonogramsounds,['EDUCATION'],4.06
+191,Hooked on Phonics Learn & Read,com.BigYellowTaxi.HookedPhonics,['EDUCATION'],4.1086955
+192,Starfall Learn to Read,air.com.starfall.ltr,['EDUCATION'],4.126374
+193,Learn to Spell & Write,com.orange.kids.learn.spell.write.words,['GAME_EDUCATIONAL'],4.013289
+194,Frederick: Learn to Read,com.englishanyone.frederick2,['EDUCATION'],4.77
+195,Seesaw Parent & Family,seesaw.shadowpuppet.co.seesaw,['EDUCATION'],4.2250686
+196,BetterHelp - Therapy,com.betterhelp,['HEALTH_AND_FITNESS'],4.587165
+197,ClassDojo,com.classdojo.android,['EDUCATION'],4.7348294
+198,PTSD Coach,is.vertical.ptsdcoach,['HEALTH_AND_FITNESS'],4.563025
+199,Mindfulness Coach,gov.va.mobilehealth.ncptsd.mindfulnesscoach,['HEALTH_AND_FITNESS'],4.7517986
+200,Skillz - Logic Brain Games,net.rention.mind.skillz,['GAME_EDUCATIONAL'],4.2932925
+201,Kids Fitness - Exercises For Kids & Yoga For Kids,com.codeplayon.exerciseforkids,['HEALTH_AND_FITNESS'],4.3627453
+202,Kids Educational Games. Attention,com.edujoy.Visual_Games,['GAME_EDUCATIONAL'],4.161972
+203,IntellectoKids Learning Games,com.intellectokids.academy,['GAME_EDUCATIONAL'],4.126582
+204,Baby Learning Shapes and Color,com.leeplay.babyshapes,['GAME_EDUCATIONAL'],4.44
+205,Learn First Words - Baby Flashcards,com.TooFunnyArtists,['EDUCATION'],4.46
+206,Autism Treatment Evaluation Checklist (ATEC). ASD,ru.atec,['PARENTING'],4.118812
+207,Montessori Preschool,com.edokicademy.montessoriacademy,['EDUCATION'],4.015831
+208,Sight Words Sentence Builder: Reading for Kids,air.com.sierravistasoftware.SightWordsSB1,['EDUCATION'],4.4114285
+209,Coco – Educational Games For Kids 2021,com.dynseo.stimart.coco.fr,['GAME_EDUCATIONAL'],4.730769
+210,Study.com - Online Courses,com.study.app,['EDUCATION'],4.1013823
+211,Math & Logic - Brain Games: Preschoolers to Age 10,com.imagiration.math,['EDUCATION'],4.56
+212,Parental Control App & Location Tracker - FamiSafe,com.wondershare.famisafe,['PARENTING'],4.7995863
+213,Zoemob Family Locator,com.zoemob.gpstracking,['PARENTING'],4.083431
+214,Psychiatry & Psychology,com.andromo.dev553557.app1008645,['EDUCATION'],4.4761906
+215,MySchool - Be the Teacher! Learning Games for Kids,com.sbt_human.ptitsprofs,['GAME_EDUCATIONAL'],4.492178
+216,Autism Assisted,com.autismassisted,['HEALTH_AND_FITNESS'],4.839286
+217,"PictoBoard: Help talk, Autism, Language, Therapy",com.chihuasdevs.helpmetalkapp,['EDUCATION'],4.3207545
+218,Autism Diary,com.wellbeingdiaries.autismdiary,['HEALTH_AND_FITNESS'],4.225
+219,Autism,meviapp.autismo,['EDUCATION'],4.1666665
+220,Autism Aid App,com.autismambassadors.autismaid,['EDUCATION'],4.422222
+221,TEAPP - Autism and videogames,com.IKKI.TEApp,['GAME_EDUCATIONAL'],4.097561
+222,Sensory Baby Toddler Learning,com.SensoryPlayApps.SensoryFishFree,['GAME_EDUCATIONAL'],4.1009517
+223,PictoTEA,ar.com.velociteam.pictoTEA,['EDUCATION'],4.3
+224,Face-ABA,ifma.faceaba,['GAME_EDUCATIONAL'],4.6923075
+225,Toddler Kids Puzzles PUZZINGO,com.sx.puzzingo,['EDUCATION'],4.6113305
+226,Toddler Puzzles for Kids - Baby Learning Games App,com.pzl1.toddler.puzzles,['GAME_EDUCATIONAL'],4.620713
+227,Huni - AI Speech Training Kids with Delayed Speech,org.dreamoriented.huni,['EDUCATION'],4.515625
+228,ASDetect,au.edu.latrobe.asdetect,['PARENTING'],4.4038463
+229,Spoken - Tap to Talk AAC,com.spoken.app,['HEALTH_AND_FITNESS'],4.12
+230,SPED Goals,com.specialNeeds.mobile,['EDUCATION'],4.9310346
+231,Rehab Coach: CVA Stroke Rehabilitation Recovery,com.blackfrogweb.rehabcoach,['HEALTH_AND_FITNESS'],4.5
+232,Rehab My Patient - for Therapists,com.rehabmypatient.app,['HEALTH_AND_FITNESS'],4.3510637
+233,Rehab Guru Pro,com.rehabguru.rehabguru,['HEALTH_AND_FITNESS'],4.090909
+234,Lu Strength & Rehab,com.lustrengththerapy.app.store.own,['HEALTH_AND_FITNESS'],4.8125
+235,JP REHAB ACADEMY,co.martin.nrnmt,['EDUCATION'],4.9
+236,Eye Exercises & Eye Training Plans - Eye Care Plus,com.eyeexamtest.eyecareplus,['HEALTH_AND_FITNESS'],4.236242
+237,Nobu Mental Wellness & Therapy,com.advancedrecoverysystems.nobu,['HEALTH_AND_FITNESS'],4.0285716
+238,Home Physio,com.homephysio,['HEALTH_AND_FITNESS'],4.366667
+239,PBS KIDS Video,org.pbskids.video,['EDUCATION'],4.358801
+240,Exercise for Kids at home,com.exerciseforkids.kidsworkout,['HEALTH_AND_FITNESS'],4.6480446
+241,Kids Exercise: Warm up & Yoga for Kids,com.yogaforkids.kidsexercise,['HEALTH_AND_FITNESS'],4.5
+242,Doctor Kids 2,com.bubadu.doctorkids2,['GAME_EDUCATIONAL'],4.230608
+243,Brush Up,com.gtw.BrushUp,['HEALTH_AND_FITNESS'],4.2430553
+244,KidloLand Kids & Toddler Games,com.internetdesignzone.nurseryrhymes,['GAME_EDUCATIONAL'],4.184099
+245,Story Books For Kids & Parents,au.com.penguinapps.android.readsentences,['GAME_EDUCATIONAL'],4.097035
+246,MedBridge,com.medbridgeed.clinician,['EDUCATION'],4.86
+247,Strocit :Post stroke exercises,com.sunpharma.strocit,['EDUCATION'],4.465909
+248,Physiopedia,com.physiopedia.physiopedia,['EDUCATION'],4.3
+249,Dare To Be Active,app.ongo.client.android_626daf9b887b4972b9f9f1913c6ab796,['HEALTH_AND_FITNESS'],4.712329
+250,Physio Study- Physiotherapy Books & Guide,physioshelf.zain.com,['EDUCATION'],4.42
+251,Back pain relief exercises at home,com.vratsev.bpex,['HEALTH_AND_FITNESS'],4.7363796
+252,Physical Therapy Dictionary,com.physical.user.dictionar,['EDUCATION'],4.285714
+253,Sober Meditations and Recovery Study Guide,com.sobermeditationsapp.android.sober,['HEALTH_AND_FITNESS'],4.756098
+254,"Perfect Ear - Music Theory, Ear & Rhythm Training",com.evilduck.musiciankit,['EDUCATION'],4.7035575
+255,MedBridge GO for Patients,com.medbridgeed.hep.go,['HEALTH_AND_FITNESS'],4.8618665
+256,Dear Sir | The Learning App - Online Course | Free,com.dearsir.app,['EDUCATION'],4.4486303
+257,In the Know LMS,com.knowingmore.android,['EDUCATION'],4.173913
+258,Eyes recovery workout,com.shvagerfm.eyecorrector1,['HEALTH_AND_FITNESS'],4.7371616
+259,"Centr, by Chris Hemsworth",com.centr.app,['HEALTH_AND_FITNESS'],4.608818
+260,Learn Tai Chi,io.odeum.learntaichi,['HEALTH_AND_FITNESS'],4.1666665
+261,VRsteps | Home Rehabilitation,co.vrsteps.app,['HEALTH_AND_FITNESS'],4.6086955
+262,iMuscle 2,com.the3d4medical.imuscle2.smartphones,['HEALTH_AND_FITNESS'],4.08156
+263,"Shiksha.com Explore Colleges, Courses & Exams",com.shiksha.android,['EDUCATION'],4.1236444
+264,"Sadhguru - Yoga, Meditation & Spirituality",com.ishafoundation.app,['HEALTH_AND_FITNESS'],4.733063
+265,Wonster Words: ABC Phonics Spelling Games for Kids,com.sx.wonsterwords,['EDUCATION'],4.2344213
+266,WEconnect Recovery,com.weconnectv2,['HEALTH_AND_FITNESS'],4.26
+267,Dose - Drug Journal,io.doseapp.android,['HEALTH_AND_FITNESS'],4.28
+268,Sober Peer,com.soberpeer,['HEALTH_AND_FITNESS'],4.6666665
+269,Lasting: Marriage Counseling,com.lasting.lasting,['HEALTH_AND_FITNESS'],4.421217
+270,ITAcademy,com.fortmobile.itacademy,['EDUCATION'],4.37
+271,Black Lama,ch.studerraimann.ilias.fhoevnrw,['EDUCATION'],4.3
+272,Hoa Sen,vn.edu.hoasen.htttql,['EDUCATION'],4.22
+273,"Mindy - medytacja, sen, muzyka",app.mindy,['HEALTH_AND_FITNESS'],4.3069305
+274,UJJWAL KUMAR SEN,co.hodor.cntyx,['EDUCATION'],4.3333335
+275,Twilight: Blue light filter for better sleep,com.urbandroid.lux,['HEALTH_AND_FITNESS'],4.582517
+276,Kids Learning Tube,com.w35ef400ff78.www,['EDUCATION'],4.5666666
+277,Picture Stories For Kids,com.storiesforkids.kidsstorybook,['EDUCATION'],4.4405594
+278,Kids Preschool Learning Songs & Offline Videos,abc.kids.preschool.learning.phonics.songs.videos,['EDUCATION'],4.2646155
+279,Baby Games for 1+ Toddlers,com.educational.baby.games,['GAME_EDUCATIONAL'],4.673146
+280,Learning Genie for Parents,com.learninggenie.parent,['EDUCATION'],4.34
+281,First Words for Baby,com.babylearninghub.myfirstwords,['EDUCATION'],4.4545455
+282,Learn Kali Linux,lifegoal.helpinghands.kalilinux,['EDUCATION'],4.069307
+283,Play and Learn Science,org.pbskids.playandlearnscience,['GAME_EDUCATIONAL'],4.098039
+284,Lingvano - Learn Sign Language,com.lingvano.app,['EDUCATION'],4.751121
+285,Sign Language ASL - Pocket Sign,com.mobireactor.signlanguage,['EDUCATION'],4.7787
+286,Learn Languages - FunEasyLearn,com.funeasylearn.languages,['EDUCATION'],4.520376
+287,Lip Reading Academy: Learn and Train with Fun,digital.dong.lipreading,['EDUCATION'],4.707317
+288,Learn Norwegian Free,com.atistudios.italk.nb,['EDUCATION'],4.7444715
+289,Hacker X: Learn Ethical Hacking & Cybersecurity,hacking.learnhacking.learn.hack.ethicalhacking.programming.coding.hackerx.cybersecurity,['EDUCATION'],4.722617
+290,InterSign - Learn ASL while you have fun!,intersign.learn.asl,['EDUCATION'],4.647059
+291,Learn Tagalog Filipino Free,com.language.learnfilipino,['EDUCATION'],4.530303
+292,"Learn Chinese, Japanese writing, ASL, with Scripts",com.languagedrops.drops.scrips.learn.write.alphabet.letters.characters.language.japanese.korean.chinese,['EDUCATION'],4.37461
+293,"StudySmarter: Flashcards, Notes, Quiz & Planner",com.studysmarter,['EDUCATION'],4.5109344
+294,Learn Computer Course - OFFLINE,com.learn_computer.course_free,['EDUCATION'],4.523891
+295,Learn Romanian. Speak Romanian,com.atistudios.italk.ro,['EDUCATION'],4.710171
+296,Speak American English - 5000 Phrases & Sentences,com.funeasylearn.phrasebook.english.american,['EDUCATION'],4.6773458
+297,"Leetcode Algorithm Coding, Java Interview Offline",com.freetymekiyan.apas,['EDUCATION'],4.7777777
+298,Data Structures and Algorithms,com.marcyliao.app.algnote,['EDUCATION'],4.32
+299,World Education Services,com.wes.app,['EDUCATION'],4.8435235
+300,Software Engineering,com.faadooengineers.free_softwareengineering,['EDUCATION'],4.16
+301,Algorithms: Explained and Animated,wiki.algorithm.algorithms,['EDUCATION'],4.3435507
+302,A to Z Learning for kids,com.innovatumsolution.atoz,['EDUCATION'],4.3170733
+303,Robotics Engineering,in.softecks.robotics,['EDUCATION'],4.5247526
+304,Algorithms and Data Structures in Dynamics,com.iov.lordofalgorithms,['EDUCATION'],4.267327
+305,Programming Hero: Coding Just Got Fun (beta),com.learnprogramming.codecamp,['EDUCATION'],4.7990737
+306,Data Structures Handbook,com.bashoverflow.datastructures,['EDUCATION'],4.77
+307,Financial Education Books - Kiyosaki Books,com.robertkyoski.books,['EDUCATION'],4.390411
+308,FamilyAlbum - Easy Photo & Video Sharing,us.mitene,['PARENTING'],4.682898
+309,B.Ed Lesson Plans,com.B.EdLessonPlan,['EDUCATION'],4.2222223
+310,MyAdventistHealth,org.ah.myadventisthealth.play,['HEALTH_AND_FITNESS'],4.3095236
+311,ZIIEI - INNOVATIVE PATHSHAALA- APP FOR TEACHERS,com.ip.ziiei,['EDUCATION'],4.420588
+312,Lucky's Learn Emotions,com.napko.luckys_learnemotions,['GAME_EDUCATIONAL'],4.135135
+313,Pathyacharya - Online Learning App | Hindi Medium,com.schooglink.curriculum.pathcharya,['EDUCATION'],4.065306
+314,बाल विकास एवं शिक्षामनोविज्ञान (Child Development),com.appybuilder.yogendra9893751060.CHILD_DEVELOPMENT,['EDUCATION'],4.4545455
+315,PARENTS | TalkingPoints,org.talkingpoints.parents,['EDUCATION'],4.670356
+316,"HOGGY Kids learning video, activity, rhyme & story",com.litifer.android.hoggyapp,['EDUCATION'],4.91
+317,Fish School by Duck Duck Moose,com.duckduckmoosedesign.fish,['GAME_EDUCATIONAL'],4.37
+318,عالم مرح,com.apptrainers.marahkg,['EDUCATION'],4.167364
+319,Child Development and Pedagogy,in.bimbikag.balvikas,['EDUCATION'],4.1
+320,Short Stories : Free Moral Stories,com.stackapps.stories,['EDUCATION'],4.3960395
+321,brightwheel: Preschool & Child Care Management App,co.kidcasa.app,['EDUCATION'],4.757835
+322,Course Hero: Homework Answers & Helper,com.coursehero.coursehero,['EDUCATION'],4.456566
+323,GED® Practice Test Free 2021,com.abc.gedtest,['EDUCATION'],4.520548
+324,"Learn Data Science, Big Data and Data Analytics",datascience.science.data.learn.programming.analytics.coding.analyst.rpa.machinelearning.ai.bi.bigdata,['EDUCATION'],4.6372547
+325,I.M.Possible Online Learning Platform -Bhavin Shah,com.thebhavinshah.android,['EDUCATION'],4.9384613
+326,Experience Controls,com.quanser.controls,['EDUCATION'],4.86
+327,Kids Reading Sight Words Lite,com.intellijoy.sightwords.lite,['GAME_EDUCATIONAL'],4.1622276
+328,1st Grade Kids Learning Games,com.iz.first.grade.educational.learning.kids.games,['GAME_EDUCATIONAL'],4.02
+329,Baby Learning Games,com.zodinplex.abc.kids.letters.learning.sounds.baby,['EDUCATION'],4.04
+330,Dino Preschool & Kindergarten Learning Games  ❤️🦕,com.tiltangames.dinomathpreschool,['EDUCATION'],4.44
+331,Preschool and Kindergarten Learning Games (SE),com.kevinbradford.games.preschoolgamesvpp,['GAME_EDUCATIONAL'],4.1282053
+332,atingi,com.moodle.atingi,['EDUCATION'],4.6
+333,First Grade Learning Games (School Edition),com.kevinbradford.games.firstgradefullvpp,['GAME_EDUCATIONAL'],4.6666665
+334,Kids Learn Rhyming Word Games,com.greysprings.wordgames,['GAME_EDUCATIONAL'],4.08
+335,MINTOW: Kids Educational Games and Lessons,com.rfactory.mintow,['GAME_EDUCATIONAL'],4.930693
+336,Learn to Read with Tommy Turtle,com.intellijoy.android.reading,['GAME_EDUCATIONAL'],4.237288
+337,"Matemáticas con Grin I 4,5,6 años primeros números",air.educaplanet.grin.mates1,['GAME_EDUCATIONAL'],4.19
+338,Smart Tales - STEM learning for Kids,com.marshmallowgames.smarttales,['GAME_EDUCATIONAL'],4.3762374
+339,Kids Spelling Match Games - Kids Spelling Learning,com.spelling.matching.kids.education.object.images,['GAME_EDUCATIONAL'],4.009901
+340,Math games - Learning games for kids,math.games.learning.games.kids,['GAME_EDUCATIONAL'],4.15
+341,Second Grade Learning Games (School Edition),com.kevinbradford.games.secondgrade,['GAME_EDUCATIONAL'],4.52
+342,"sKoolish ABC - kids learning, preschool, nursery",com.rsv.sKoolishABC,['GAME_EDUCATIONAL'],4.3883495
+343,Kids'Skills App,org.kidsskills.app,['EDUCATION'],4.2469134
+344,BabySparks - Development Activities and Milestones,com.babysparks.babysparks,['PARENTING'],4.0515556
+345,Highlights Library Reading,com.chungchy.highlightslibraryglobal,['EDUCATION'],4.2
+346,Studycat: Learn French for Kids,net.studycat.funfrench,['EDUCATION'],4.3267326
+347,Science Kids Learning - Be Super Scientist!,com.sciencegames.ScienceKidsLearning,['GAME_EDUCATIONAL'],4.21
+348,Solar System for kids - Learn Astronomy,com.kokotots.solarkokotots,['GAME_EDUCATIONAL'],4.4074073
+349,Wyzant - Find Expert Tutors,com.wyzant.studentapp,['EDUCATION'],4.24
+350,"Breathe, Think, Do with Sesame",air.com.sesameworkshop.ResilienceThinkBreathDo,['EDUCATION'],4.310606
+351,Swiflearn: Live Classes for Class 1 to 10,com.swiflearn,['EDUCATION'],4.2739725
+352,First step learning game - your child's Educator,com.jigar.kids.children.learning.education.indoor.free.game,['GAME_EDUCATIONAL'],4.72
+353,Edapt : learn in-demand skills for free,com.youmeare.edapt,['EDUCATION'],4.233871
+354,IILT Learning,com.iilt.foundationforoet,['EDUCATION'],4.5865383
+355,Quantic School of Business,com.smartly.hybrid,['EDUCATION'],4.8753996
+356,My Study Life - Digital School Planner You Need,com.virblue.mystudylife,['EDUCATION'],4.3379755
+357,Learn Swift programming - iOS app development,swift.ios.learnswift.coding.apps.buildingapps.learn.programming.iosdevelopment,['EDUCATION'],4.53
+358,Vroom: Early Learning,org.joinvroom.dailyvroom,['PARENTING'],4.1551723
+359,Easy Math - Learn maths at primary schools,com.TEEE.easymath,['EDUCATION'],4.73
+360,Simply Learn Languages - Online Phrasebook,simply.learn.universal,['EDUCATION'],4.51
+361,Learn 163 Languages | Bluebird,com.pronunciatorllc.bluebird,['EDUCATION'],4.12591
+362,Funexpected Math - A beautiful learning adventure,ltd.funexpected.math,['EDUCATION'],4.4
+363,Simplilearn: Online Courses,com.mobile.simplilearn,['EDUCATION'],4.5773115
+364,Cleo for Families,com.lucyapp,['HEALTH_AND_FITNESS'],4.0789475
+365,Daily Connect (Child Care),com.seacloud.dc,['EDUCATION'],4.5544553
+366,Procare: Childcare App,com.kinderlime.dev,['EDUCATION'],4.82634
+367,Roducate - Africa's No.1 Learning App,com.educ.roducate,['EDUCATION'],4.5288463
+368,Dyscalculia Screener Checklist,appinventor.ai_dyscalculiaservices.DyscalculiaChecklist,['EDUCATION'],4.428571
+369,Fun Math: master math facts in cool game!,net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes,['GAME_EDUCATIONAL'],4.6658597
+370,Mental Math Practice,com.magoosh.gre.flashcards.mental_math,['EDUCATION'],4.372549
+371,Math Tricks Workout - Math master - Brain training,com.sankhyantra.mathstricks,['EDUCATION'],4.735791
+372,Math Workout - Math Games,io.ts.mathworkout,['EDUCATION'],4.5936074
+373,Monster Math - Math facts learning app for kids,com.makkajai.monstermathfree,['EDUCATION'],4.28
+374,Math Path - Mental Math And More,com.mnsware.math.path.game,['GAME_EDUCATIONAL'],4.7727275
+375,"Math games: mental arithmetic, mathematics",com.astepanov.mobile.mindmathtricks,['GAME_EDUCATIONAL'],4.368249
+376,MathLand: Math games for kids,com.EducaGames.MathLand,['GAME_EDUCATIONAL'],4.226333
+377,Learn Math: Arithmetic to Trigonometry & Fractions,com.companyname.MaturaMatematyka,['EDUCATION'],4.6462584
+378,"Math Exercises for brain, Math Riddles, Puzzle",de.softan.brainstorm,['GAME_EDUCATIONAL'],4.574982
+379,Math Tests - mathematics practice questions,com.holucent.math,['EDUCATION'],4.557532
+380,Mental Math Master,com.fivedaysweekend.math,['GAME_EDUCATIONAL'],4.3188853
+381,Math theory,com.sangaku.maths.en,['EDUCATION'],4.5204463
+382,Addition and Subtraction Games,com.idz.additionsubtractiongames,['GAME_EDUCATIONAL'],4.2487044
+383,Brainwell Mind & Brain Trainer,com.monclarity.brainwell,['EDUCATION'],4.5401235
+384,Sababa Kindergarten Math – math games for kids,com.sababaedu.kindergarten,['EDUCATION'],4.7904763
+385,Math Games - Learn Math,com.math.learnmath,['EDUCATION'],4.39
+386,"Math & Science Tutor - Algebra, Calculus, Physics",com.mathtutordvd.mathtutor.mathtutor,['EDUCATION'],4.385787
+387,Kids Math: Math Games for Kids,com.rvappstudios.montessori.math.games.kids.number.counting,['GAME_EDUCATIONAL'],4.4356437
+388,High School Math: Practice Tests and Flashcards,com.varsitytutors.learningtools.hsmath,['EDUCATION'],4.089109
+389,"Math games, Mathematics",org.nixgame.mathematics,['EDUCATION'],4.687283
+390,Math Games - Maths Tricks,com.maths.games.add.subtract.multiply.divide,['GAME_EDUCATIONAL'],4.298734
+391,Math Games for Adults,math.workout.math.games,['GAME_EDUCATIONAL'],4.04
+392,Math Games,godlinestudios.MathGames,['GAME_EDUCATIONAL'],4.436298
+393,Multiplication Memorizer,com.mathdomaindevelopment.multiplicationstables,['GAME_EDUCATIONAL'],4.3146553
+394,"Simple Math - Learn Add & Subtract, Math Games",simplemath.math.games.subtractiongames.mathgames,['GAME_EDUCATIONAL'],4.405797
+395,Math Challenges (Math Games),m03k.star.game,['EDUCATION'],4.5664062
+396,"Math Games - Math Games, Math App, Add, Multiply",com.maths.mathsgame.multiplication.mathsapp,['GAME_EDUCATIONAL'],4.11
+397,Hard Math Games X - Difficult Cartoon Maths Game,com.Acetate.HardMathGames,['GAME_EDUCATIONAL'],4.714286
+398,Brain School: Brain Games,air.xyz.childnet.brainschool,['EDUCATION'],4.11
+399,"Learning Math :Add , Subtract , Multiply & Divide",com.QuizMathAppLearn.mathOperations,['GAME_EDUCATIONAL'],4.4253244
+400,Math Tricks,example.matharithmetics,['EDUCATION'],4.5107927
+401,"Math Games, Learn Add, Subtract, Multiply & Divide",com.GamesForKids.Mathgames.MultiplicationTables,['GAME_EDUCATIONAL'],4.5095696
+402,"Math Games - Addition, Subtraction, Multiplication",com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division,['GAME_EDUCATIONAL'],4.3532076
+403,1st 2nd 3rd grade math games for kids,air.childLearnMath.edugames.vn,['GAME_EDUCATIONAL'],4.022117
+404,Monster Math 2: Fun Math Games. Kids Grade K-5,com.makkajai.monstermath2free,['GAME_EDUCATIONAL'],4.0228014
+405,Math: Long Division,com.epsilon.division,['EDUCATION'],4.5866666
+406,Pet Bingo by Duck Duck Moose,com.duckduckmoosedesign.pb,['EDUCATION'],4.3465347
+407,Mental Calculation Training,com.dmapps.mindcal,['GAME_EDUCATIONAL'],4.44
+408,Kids Math Learning,com.ashvindalwadi.kidsmathlearning,['EDUCATION'],4.361111
+409,Kids True False - Math,com.hegodev.oddoneoutforkids,['EDUCATION'],4.125926
+410,Dinosaur Math - Learning Games for kids toddlers,com.imayi.dinomath,['GAME_EDUCATIONAL'],4.226415
+411,Learn Division Facts Games - Fun Dividing Practice,com.thelearningapps.mathdivision,['GAME_EDUCATIONAL'],4.1666665
+412,"Math for kids: numbers, counting, math games",com.astepanov.mobile.mathforkids,['GAME_EDUCATIONAL'],4.0734463
+413,Edujoy Math Academy - Learn Maths,com.edujoy.math.academy,['GAME_EDUCATIONAL'],4.0597014
+414,Math Wiki - Learn Math,de.lakdev.mathewiki,['EDUCATION'],4.392157
+415,Multiplication tables - Math learning app,de.softan.multiplication.table,['GAME_EDUCATIONAL'],4.37534
+416,Mathman: Learn Math & Become Math Superhero,cz.musestudio.mathexplained,['EDUCATION'],4.33
+417,Albert: Learn Math,com.shukia.shuki.math,['GAME_EDUCATIONAL'],4.06
+418,MathLand Full Version: Mental Math Games for kids,com.EducaGames.MathLandFull,['GAME_EDUCATIONAL'],4.35
+419,Smartick: Math and Coding,com.mobile.android.smartick,['EDUCATION'],4.2247753
+420,Primary Maths,com.primary.maths,['EDUCATION'],4.314815
+421,DoodleMath: K-6 Elementary Math,com.ezeducation.doodlemaths.ks2,['EDUCATION'],4.0128207
+422,Oda Kids Math: Learning Maths with Funny Games,com.odaclass.mathcheck,['EDUCATION'],4.3168316
+423,Top Parent - New Ways of Learning And Teaching,com.csf.topparent,['PARENTING'],4.22
+424,English Kids Math,com.kidsmaths.englishkidsmath,['EDUCATION'],4.2
+425,calculets: Math games for kids mental calculation,com.juegoscc.numbersbubbles,['EDUCATION'],4.2058825
+426,Champions Mind Sport Psychology,app.championsmind,['HEALTH_AND_FITNESS'],4.61
+427,Math for Kids,pt.science4you.numbers4you,['GAME_EDUCATIONAL'],4.02
+428,Math Screen,com.tfsol.mathscreen,['EDUCATION'],4.1904764
+429,Emotional Intelligence EQ IQ,emotional.intelligence.app,['EDUCATION'],4.0526314
+430,MyEmotions - Managing difficult emotions,gestion_de_emociones_dificiles.myemotions,['HEALTH_AND_FITNESS'],4.2727275
+431,Emotional intelligence,com.logoseq.app,['EDUCATION'],4.213592
+432,Zenklub - Se Conhecer Faz Bem,com.zenklub.android,['HEALTH_AND_FITNESS'],4.161111
+433,Worrydolls,id.com.WorryDolls,['HEALTH_AND_FITNESS'],4.813765
+434,DBT Coach: (Dialectical Behavior Therapy app),co.swasth.dbtcoach,['HEALTH_AND_FITNESS'],4.3185186
+435,"Reflectly: Diary, Gratitude Journal & Mood Tracker",com.reflectlyApp,['HEALTH_AND_FITNESS'],4.285123
+436,Cognitive Behavioral Therapy,cognitive.behavioral.therapy,['EDUCATION'],4.1
+437,Social Intelligence,in.softecks.socialintelligence,['EDUCATION'],4.714286
+438,eQuoo: Emotional Fitness Game,com.bitbox.equoo,['HEALTH_AND_FITNESS'],4.516432
+439,Human Behavior,com.sqstech.human_behavior,['EDUCATION'],4.6666665
+440,Human behavior,com.sqsapps.human_behavior,['EDUCATION'],4.4
+441,Feelings Diary - Your special feelings diary!,io.sergiolabs.feelingsdiary,['HEALTH_AND_FITNESS'],4.6144576
+442,How to Develop Emotional Intelligence - EQ,com.crazyapps.emotionalintelligence.emotionalquotient,['EDUCATION'],4.5555553
+443,BetterTogether - Losing Weight,com.bettertogether.us,['HEALTH_AND_FITNESS'],4.5940595
+444,Unlock Your Mind - Train your subconscious mind,app.unlockyourmind.lockscreen,['HEALTH_AND_FITNESS'],4.657492
+445,eMoods Bipolar Mood Tracker,my.tracker,['HEALTH_AND_FITNESS'],4.4113636
+446,My Psychiatrist,com.aronlabz.mypsychiatrist,['EDUCATION'],4.7619047
+447,Headspace: Meditation & Sleep,com.getsomeheadspace.android,['HEALTH_AND_FITNESS'],4.543726
+448,HearMe | Empathy Not Therapy,com.hearme,['HEALTH_AND_FITNESS'],4.3236365
+449,Therappy: Your Mental Health,io.therappy.therappyapp,['HEALTH_AND_FITNESS'],4.6666665
+450,BetterMe: Mental Health,com.gen.bettermeditation,['HEALTH_AND_FITNESS'],4.4779086
+451,TherapyChat - Online therapy & counselling,com.terapiachat.android,['HEALTH_AND_FITNESS'],4.53
+452,"Wysa: anxiety, depression & sleep therapy chatbot",bot.touchkin,['HEALTH_AND_FITNESS'],4.782995
+453,How to discipline your kids,com.andromo.dev759850.app979576,['PARENTING'],4.448276
+454,Introduction to Psychology,com.elytelabs.introductiontopsychology,['EDUCATION'],4.63
+455,Psychology Daily,com.psychology.daily,['EDUCATION'],4.257426
+456,Kinedu: Baby Development,com.kinedu.appkinedu,['PARENTING'],4.6780963
+457,Psychology,io.ocedu.psychology,['EDUCATION'],4.31
+458,Study Psychology for free : OFFLINE,com.bishrulhaq.learnpsychology,['EDUCATION'],4.68
+459,"Psychological concepts: facts, terms, learn",com.dictionary.psycology.psycologyConcepts.PsychologyDictionary,['EDUCATION'],4.544554
+460,My Dreams: Self Improvement & Life Coach,com.MyDreams.MyDreams,['HEALTH_AND_FITNESS'],4.36
+461,Mood Patterns - Mood Tracker & Diary with Privacy,info.moodpatterns.moodpatterns,['HEALTH_AND_FITNESS'],4.6130953
+462,Parikshit Jobanputra LifeCoach,com.app.parikshitjobanputra,['EDUCATION'],4.5
+463,Cuentos de las Emociones,com.andromo.dev722938.app833312,['EDUCATION'],4.0869565
+464,My Very Hungry Caterpillar,com.storytoys.myveryhungrycaterpillar.free.android.googleplay,['GAME_EDUCATIONAL'],4.196984
+465,Roly-Poly Friends,com.asobing.dangomusi,['GAME_EDUCATIONAL'],4.4117646
+466,The Very Hungry Caterpillar - Creative Play,com.storytoys.veryhungrycaterpillar.creativeplay.free.android.googleplay,['EDUCATION'],4.079208
+467,iMico,iinformatica.imico,['GAME_EDUCATIONAL'],4.25
+468,Monster Trucks Game for Kids 2,com.razmobi.monstertrucks2,['GAME_EDUCATIONAL'],4.0283213
+469,Baby Panda Home Safety,com.sinyee.babybus.homesafe.global,['GAME_EDUCATIONAL'],4.1389804
+470,Color Kids: Coloring Games,com.rvappstudios.shapes.colors.toddler,['GAME_EDUCATIONAL'],4.52958
+471,Molly of Denali: Learn about Nature and Community,org.pbskids.mollyofdenali,['GAME_EDUCATIONAL'],4.3762374
+472,Hungry Caterpillar Shapes and Colors,com.storytoys.veryhungrycaterpillar.shapesandcolors.free.android.googleplay,['GAME_EDUCATIONAL'],4.08
+473,PBS KIDS ScratchJr,org.pbskids.scratchjr,['EDUCATION'],4.18
+474,The Very Hungry Caterpillar - Play & Explore,com.storytoys.hungrycaterpillar.book1.free.android.googleplay,['GAME_EDUCATIONAL'],4.031008
+475,Trains for Kids,com.blion.games.trains,['GAME_EDUCATIONAL'],4.06
+476,Sago Mini School (Kids 2-5),com.sagosago.School.googleplay,['EDUCATION'],4.1493506
+477,Toppscholars - Smart Learning App for Students,com.jaro.toppscholars,['EDUCATION'],4.3368983
+478,Shaalaa: The Study App,com.shaalaa.app,['EDUCATION'],4.629902
+479,"Ezee App - Child Safety, test & learning app",ezee.abhinav.ezeetest,['EDUCATION'],4.224344
+480,Intellijoy Early Learning Academy,com.intellijoy.kids.academy,['GAME_EDUCATIONAL'],4.3
+481,The mechanism of hearing educational VR 3D,com.rendernet.hearing,['EDUCATION'],4.668281
+482,"Toddler learning games for kids: 2,3,4 year olds",bebi.family.kids.learning.games,['GAME_EDUCATIONAL'],4.467949
+483,Learn Machine Learning - ML Tutorials & Programs,ml.machinelearning.learning.machine.data.datascience.bigdata.programming.analytics.coding.learn,['EDUCATION'],4.49
+484,Learn Japanese for Free with kawaiiNihongo,de.mardukcorp.kawaiinihongo,['GAME_EDUCATIONAL'],4.6861978
+485,Japanese Kanji Study,com.mindtwisted.kanjistudy,['EDUCATION'],4.840527
+486,ReaderPro - Speed reading and brain development,com.Store.ReaderPro,['EDUCATION'],4.7323513
+487,Intellect: Create a Better You,co.intellect.app,['HEALTH_AND_FITNESS'],4.770006
+488,Endless Reader,com.originatorkids.EndlessReader,['EDUCATION'],4.3265653
+489,Math Balance : Learning Games For Kids Grade 1 - 5,com.makkajai.numbersense_compensation_free,['GAME_EDUCATIONAL'],4.04
+490,Outdoor Family Fun with Plum,org.pbskids.outdoorfamilyfunwithplum,['PARENTING'],4.214286
+491,23andMe - DNA Testing : Health & Ancestry,com.twentythreeandme.app,['HEALTH_AND_FITNESS'],4.763013
+492,edvi- A complete online teaching & learning App,app.edvi,['EDUCATION'],4.4358974
+493,Pédagogie,com.pedagogie,['EDUCATION'],4.43
+494,Педагогика. Теория,ru.myappbook.PedagTeor,['EDUCATION'],4.8
+495,Mesmerize - Visual Meditation,app.mesmerize,['HEALTH_AND_FITNESS'],4.2816324
+496,MwalimuPLUS,com.mwalimuplus,['EDUCATION'],4.2277226
+497,Iona: Mental Health App for Self Therapy & Anxiety,com.iona.mental.health,['HEALTH_AND_FITNESS'],4.7029705
+498,being: your mental health friend,to.being.now,['HEALTH_AND_FITNESS'],4.90625
+499,‎MyPossibleSelf: Mental Health,com.mypossibleself.app,['HEALTH_AND_FITNESS'],4.598039
+500,Mindshine - Happiness Coach,app.mindshine,['HEALTH_AND_FITNESS'],4.9459457
+501,Shots Immunizations,org.immunizationed.shotsG3,['EDUCATION'],4.319149
+502,What's Up? - A Mental Health App,com.jacksontempra.apps.whatsup,['HEALTH_AND_FITNESS'],4.2132564
+503,"Kids Nursery Rhymes - Baby Songs, Videos &TV",com.ubestkid.kidrhymes.a,['EDUCATION'],4.3
+504,Kinvo,com.kinvolved.kthru12,['EDUCATION'],4.3333335
+505,IQ and Aptitude Test Practice,org.aztest.iqtest,['EDUCATION'],4.033203
+506,Improve Your Brain Power - Boost memory & focus,com.trmapps.improve_your_brain_power,['HEALTH_AND_FITNESS'],4.4
+507,Brain Games - improve your brain power,mozg.braingames,['EDUCATION'],4.6666665
+508,Brain Training Games,com.braingames.braintraining,['GAME_EDUCATIONAL'],4.2647057
+509,Edmodo for Parents,com.edmodo.parents,['EDUCATION'],4.4582543
+510,Meeko Family,com.meeko.family,['PARENTING'],4.3295455
+511,Docket® - Official Immunization Records,com.foxhallwythe.docket.mobile,['HEALTH_AND_FITNESS'],4.4353313
+512,Health Swap,com.dsa.healthswap,['HEALTH_AND_FITNESS'],4.6
+513,Yo también leo | Aprender a leer con Método Global,com.diversityapps.yotambienleo,['EDUCATION'],4.177215
+514,"Huckleberry: Baby & Child Tracker, Sleep Experts",com.huckleberry_labs.app,['PARENTING'],4.5304184
+515,Reach Speech: Speech therapy for kids and babies,com.dar_slova.hs,['GAME_EDUCATIONAL'],4.02
+516,First Baby Words - Learning App for Baby & Infants,cz.pixelmate.cognitobaby,['GAME_EDUCATIONAL'],4.09
+517,Baby Daybook - Breastfeeding & Sleeping Tracker,com.drillyapps.babydaybook,['PARENTING'],4.750853
+518,White Noise for Baby,pl.trpaslik.babynoise,['PARENTING'],4.793182
+519,CommBoards Lite - AAC Speech Assistant,com.shmoontz.commboards.lite,['EDUCATION'],4.11
+520,Playfully Baby Development Activities & Milestones,com.playfullyapp.playfully,['PARENTING'],4.5214286
+521,Simple sentence builder,com.symbolicone.ouille,['GAME_EDUCATIONAL'],4.142857
+522,Eric Leija - Primal Fitness,ericleija.PrimalSwoledier,['HEALTH_AND_FITNESS'],4.3863635
+523,Stamurai - Stammering & Stuttering Speech Therapy,com.stamurai.stamurai,['HEALTH_AND_FITNESS'],4.632959
+524,My Town : Daycare Game,mytown.daycare.free,['GAME_EDUCATIONAL'],4.2718134
+525,My Town: After School Neighborhood Street,mytown.street.free,['GAME_EDUCATIONAL'],4.270447
+526,ChatterPix Kids by Duck Duck Moose,com.duckduckmoosedesign.cpkids,['EDUCATION'],4.057065
+527,Speech Act,com.andalabs.speechact,['EDUCATION'],4.9014087
+528,Moshi: Sleep and Meditation,com.mindcandy.sleepstories,['PARENTING'],4.3560605
+529,The Wonder Weeks,org.twisevictory.apps,['HEALTH_AND_FITNESS'],4.32549
+530,Baby Touch Sounds,com.kidslearningapplications.babytouchsounds,['EDUCATION'],4.33
+531,English Flashcards For Kids,com.pilowar.android.flashcardsusen,['EDUCATION'],4.21
+532,Kids First Words Learning: Baby's First Word Book,com.dstocapps.kidsfirstwordlearning,['EDUCATION'],4.214286
+533,Speech Therapy Flashcards - S,com.speechtx.jennifer.flashcards_s,['EDUCATION'],4.0238094
+534,Clefs: Music Reading Trainer,com.crazyootka.clefs,['EDUCATION'],4.717949
+535,SNOO,com.happiestbaby.snoo,['HEALTH_AND_FITNESS'],4.6055045
+536,Weldon - Parenting Support (formerly Family Five),app.familyfive.android,['PARENTING'],4.55
+537,My Pretend Family Mansion,com.beansprites.mypretendmansionFREE,['GAME_EDUCATIONAL'],4.0234504
+538,Speechling - Learn to Speak Any Language,com.speechling.speechling,['EDUCATION'],4.7524753
+539,Motor Control Circuits,com.automation29.forwa.startingcircuits,['EDUCATION'],4.11
+540,Motor Rewinding,com.automation29.forwa.motorrewinding,['EDUCATION'],4.1932774
+541,Toddler Games: Kids Learning,com.tt.toddlergames.preschoollearning.educationalgames,['GAME_EDUCATIONAL'],4.352941
+542,Car game for toddlers: kids cars racing games,com.amayasoft.cars.kids.toddlers.garage.game,['GAME_EDUCATIONAL'],4.1025643
+543,Coloring & Learn,com.orange.coloring.learn.kids,['GAME_EDUCATIONAL'],4.206716
+544,Kids Top Nursery Rhymes Videos - Offline Learning,kidzooly.fivelittle,['EDUCATION'],4.272786
+545,Pre-k Preschool Learning Games for Kids & Toddlers,com.greysprings.games,['GAME_EDUCATIONAL'],4.134375
+546,Construction Vehicles & Trucks - Games for Kids,com.trochoi.constructionvehicles,['GAME_EDUCATIONAL'],4.0747285
+547,Train Games for Kids: station & railway building,com.gokids.trains,['GAME_EDUCATIONAL'],4.415385
+548,Kids Cars Games! Build a car and truck wash!,com.gokids.transport2,['GAME_EDUCATIONAL'],4.0387692
+549,Baby Learning Games -for Toddlers & Preschool Kids,com.tp.baby.learning.games,['GAME_EDUCATIONAL'],4.1238093
+550,Four-stroke Otto engine educational VR 3D,com.rendernet.ottoengine,['EDUCATION'],4.6053414
+551,PA Motorcycle Practice Test,com.nicusa.pmt,['EDUCATION'],4.73
+552,Montessori Fine Motor Skills Game School Numbers,com.happyarteducation.schoolnumber,['GAME_EDUCATIONAL'],4.5
+553,Motorcycle Permit Test 2021,org.drivingprep.motocycle,['EDUCATION'],4.72
+554,"Baby Games - Piano, Baby Phone, First Words",com.rvappstudios.baby.games.piano.phone.kids,['GAME_EDUCATIONAL'],4.364382
+555,Motor Circuits Diagram,com.zbro.circuitdiagram,['EDUCATION'],4.75
+556,Montessori Fine Motor Skills Game Animal Alphabet,com.happyart.friendlyanimal,['GAME_EDUCATIONAL'],4.7
+557,Internal Combustion Engines,com.savree.engines,['EDUCATION'],4.0465117
+558,"Codemurai - FREE Coding Courses: Game, Web, Apps",com.zenva.codemurai,['EDUCATION'],4.6179104
+559,Engine Visualization 3D & AR,com.DevDen.EngineVisualizationAR,['EDUCATION'],4.0576925
+560,Electrical Wiring Simulator - EWS,com.SageApprentice.ElectricalWiringSimulator,['EDUCATION'],4.4330707
+561,Motorcycle Licence Test,co.nz.nextlevelapps.motorcycle.licence.test,['EDUCATION'],4.2539682
+562,DT Driving Test Theory,com.zeeroapps.drivingtests,['EDUCATION'],4.6700506
+563,RTO Exam in Malayalam(Kerala),samarth.rtoexaminmalayalam,['EDUCATION'],4.5700936
+564,Connecticut DMV Mobile,com.nicusa.ctdmv,['EDUCATION'],4.41
+565,US DMV Driving Tests,com.kep.driving.us,['EDUCATION'],4.270968
+566,Drivers Ed: US Driving Test 2021 Free,com.vialsoft.driversedfreemium,['EDUCATION'],4.42
+567,DMV Hub - 2021 Driving Test,com.northpole.world.drivingtest.california.free,['EDUCATION'],4.7957783
+568,while True: learn(),com.nival.wtlm,['GAME_EDUCATIONAL'],4.6796117
+569,Learn electronics,mobile.olimpia.com.aprendeelectronica,['EDUCATION'],4.340351
+570,Learn Aircraft Systems,com.smcreations.aircraftsystems,['EDUCATION'],4.7391305
+571,Learn Game development with Unity & C#,game.gamedevelopment.gamedev.makegames.mobilegames.creategame.learngame,['EDUCATION'],4.345912
+572,LEGO® Education SPIKE™,com.lego.education.spike,['EDUCATION'],4.3
+573,Motores a 4 Tiempos,com.eversoft.motores,['EDUCATION'],4.667575
+574,Learn Unreal Engine 4 Game Development,com.stroyed.lern.ue4,['EDUCATION'],4.1666665
+575,Kids Educational Game 2 Free,com.pescapps.gamekids2free,['GAME_EDUCATIONAL'],4.3441076
+576,Bimi Boo Toddler Games,com.bimiboo.playandlearn,['GAME_EDUCATIONAL'],4.262024
+577,Vehicle Sounds For Early Learning Kids & Toddlers,com.codeflowdevelopers.vehiclesounds,['EDUCATION'],4.428571
+578,Motorcycle Manuals - All about motorcycles,com.johnmarin.manualesmotos,['EDUCATION'],4.322034
+579,Preschool All-In-One,com.jg.spongeminds.preschooldemo,['GAME_EDUCATIONAL'],4.1026874
+580,Kids Academy: Kids Preschool Learning – All In One,com.gkgrips.preschoollearninggames,['GAME_EDUCATIONAL'],4.03
+581,Kids Preschool Learning | Nursery Toddler games,years.kids.educational.nursery,['EDUCATION'],4.7733335
+582,Balloon Pop : Toddler Games for preschool kids,ge.bebi.balloon.pop.game,['GAME_EDUCATIONAL'],4.6354775
+583,Praadis Education - Kids Learning App,com.praadis.kidslearningapp,['EDUCATION'],4.8067226
+584,Kids Matching Game,com.hegodev.matchit,['EDUCATION'],4.0471463
+585,Toddler Games for 2+ Year Olds,com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children,['GAME_EDUCATIONAL'],4.23
+586,Accessible Dictionary | অভিগম্য অভিধান,com.programextended.www.accessibledictionaryoffline,['EDUCATION'],4.4158416
+587,DISaBility,com.boysbrigadeni.disability,['EDUCATION'],4.352941
+588,"Truck games for kids - build a house, car wash",com.gokids.transportbuilding,['GAME_EDUCATIONAL'],4.0202966
+589,Cerebral Palsy,com.cdac.cerebral_palsy,['EDUCATION'],4.714286
+590,SSA Child Assessment English,com.cdac.child_english,['EDUCATION'],4.6363635
+591,Avaz AAC,com.avazapp.international.lite,['EDUCATION'],4.118644
+592,SSA Child Assessment Gujarati,com.cdac.child_gujarathi,['EDUCATION'],4.5833335
+593,Phonics - Sounds to Words for beginning readers,au.com.parrotfish.phonemic.lite,['GAME_EDUCATIONAL'],4.16
+594,Braille Academy: Learn and Train Touch Reading!,digital.dong.braille,['EDUCATION'],4.732673
+595,Unicaf | UK University Degree Scholarships,com.app.unicaf,['EDUCATION'],4.314136
+596,T-Mobile® FamilyMode™,com.tmobile.familycontrols,['PARENTING'],4.204473
+597,Family Locator - GPS Location Tracker Find Family,com.family.locator.find.my.kids,['PARENTING'],4.5974026
+598,CircleOf | Family Caregiving,com.mywaysmobile,['HEALTH_AND_FITNESS'],4.4666667
+599,Talkspace Counseling & Therapy,com.talkspace.talkspaceapp,['HEALTH_AND_FITNESS'],4.143216
+600,Emporia - Empowerment of Persons with Disabilities,bd.gov.epwdict,['EDUCATION'],4.652174
+601,Visual Disability Simulator,com.braccia.abled,['EDUCATION'],4.285714
+602,DIP Cambodia,com.application.mosvy.disability,['HEALTH_AND_FITNESS'],4.5
+603,"Child Support, Expenses & Alimony for Co-Parents",com.supportpay,['PARENTING'],4.15
+604,AngelSense Guardian,com.angelsense.mobile,['PARENTING'],4.33
+605,SSA Child Assessment Hindi,com.cdac.child_hindi,['EDUCATION'],4.2727275
+606,Psychology of education,com.sqsapps.psychology_of_education,['EDUCATION'],4.8
+607,Learn Android App Development - Android Tutorials,androidapp.learn.development.programming.coding.learnandroid.appdevelopment.androiddevelopment,['EDUCATION'],4.5820894
+608,Learn music theory with Sonid,org.stroopwafel.music.app,['EDUCATION'],4.4174757
+609,PTSD Family Coach,gov.va.mobilehealth.ncptsd.ptsdfamilycoach,['HEALTH_AND_FITNESS'],4.121212
+610,Aspiring Teachers,co.kevin.bqwcn,['EDUCATION'],4.1666665
+611,Diseases Treatments Dictionary,com.diseases.treatment_dictionary,['EDUCATION'],4.477095
+612,Heart Diseases & Treatment,com.lionasys.heartdisordersapp,['HEALTH_AND_FITNESS'],4.45
+613,All Disease Treatment & Health Care Dictionary,com.skappstudio.alldiseasetreatment,['HEALTH_AND_FITNESS'],4.927835
+614,BMI Disease Tracker - AI Health Check Up,com.application.bmiobesity,['HEALTH_AND_FITNESS'],4.6634617
+615,CDC,gov.cdc.general,['HEALTH_AND_FITNESS'],4.131707
+616,Disease,com.cdac.nhpdisease,['EDUCATION'],4.59375
+617,Ophthalmology Offline,com.book.medical.opthalmology,['EDUCATION'],4.5625
+618,Symptomate – Symptom checker,com.symptomate.mobile,['HEALTH_AND_FITNESS'],4.5120482
+619,Infectious Diseases & Treatment,com.andromo.dev553557.app1010152,['EDUCATION'],4.177419
+620,Solve the Outbreak,gov.cdc.sto,['EDUCATION'],4.49
+621,AR Disease Simulation,com.hovar.diseaseSimAR,['GAME_EDUCATIONAL'],4.428571
+622,Skin diseases and treatment offline,com.jstech.skindiseases.dermatology,['HEALTH_AND_FITNESS'],4.2105265
+623,Heartpedia,com.cardinal.childrensheartencyclopedia,['HEALTH_AND_FITNESS'],4.46
+624,Health Education,com.andromo.dev708372.app811732,['EDUCATION'],4.3783784
+625,CDC Health IQ,gov.cdc.healthiq,['GAME_EDUCATIONAL'],4.45098
+626,Communicable Diseases,com.andromo.dev700805.app908277,['HEALTH_AND_FITNESS'],4.4
+627,Disorder & Diseases Dictionary 2021,dvh.com.disease,['HEALTH_AND_FITNESS'],4.56
+628,Kidney diseases and Treatment,com.patrikat.kidney.diseases.and.treatment,['HEALTH_AND_FITNESS'],4.316456
+629,Doctor At Home,np.com.pacificregmi.doctorathome.remedies.treatment,['HEALTH_AND_FITNESS'],4.6153846
+630,Plantix - your crop doctor,com.peat.GartenBank,['EDUCATION'],4.3551216
+631,All Drugs and Diseases,com.truthpower.all_disease_and_disorders,['HEALTH_AND_FITNESS'],4.448276
+632,Pre-PG: Clinical NEET PG NEXT Prep | INICET | FMGE,com.pre_pg,['EDUCATION'],4.67547
+633,Medical Quiz - Prepare for Medical Licensing Exams,com.medicallicensingexam.quiz,['EDUCATION'],4.4150944
+634,Medical Quiz Questions And Answers,com.medical.quiz,['GAME_EDUCATIONAL'],4.14
+635,Clinical Skills,com.andromo.dev737641.app846648,['EDUCATION'],4.857143
+636,Picmonic: Nursing school RN LPN NP NCLEX AANP ANCC,com.picmonic.androidapp,['EDUCATION'],4.76259
+637,Pepi Hospital: Learn & Care,com.PepiPlay.PepiHospital,['GAME_EDUCATIONAL'],4.0457025
+638,MedNotes - For & By Medical Students,in.mednotes.MedNotes,['EDUCATION'],4.6890755
+639,MedLearn | Medical Education,com.medical.medlearnapp,['EDUCATION'],4.1386137
+640,Clinical History & Examination,com.andromo.dev738202.app843996,['EDUCATION'],4.49
+641,Medical Pro Guide,com.medical.proguide,['EDUCATION'],4.5546217
+642,sqadia.com Medical Lectures,tv.uscreen.sqadiacom,['EDUCATION'],4.3913045
+643,Clinical Radiology,com.andromo.dev738202.app840887,['EDUCATION'],4.3333335
+644,Clinical Pharmacology,com.andromo.dev737641.app839777,['EDUCATION'],4.3516483
+645,Medical Pocket Prep,com.pocketprep.android.medical,['EDUCATION'],4.72549
+646,Clinical Pediatrics,com.andromo.dev738202.app862209,['EDUCATION'],4.56
+647,MedLearn - Medical Education,com.medical.medlearntest,['EDUCATION'],4.029412
+648,Clinical Lab Science Review,com.clsreview.clsreview,['EDUCATION'],4.0735292
+649,MBBS Study App,info.therithal.brainkart.mbbsstudyapp,['EDUCATION'],4.24
+650,All Medical Mnemonics,medical.mnemonics,['EDUCATION'],4.6666665
+651,Nursing Course Online Free,com.forsdeveloper.freenursingcourse,['EDUCATION'],4.23
+652,All Medical Mnemonics (Colored & Illustrative),com.andromo.dev686997.app754398,['EDUCATION'],4.17
+653,"My Nursing Mastery: Student, NCLEX & Nurse's Guide",com.hltcorp.nursing,['EDUCATION'],4.17
+654,Medical School (Study Guide),com.andromo.dev677432.app895048,['EDUCATION'],4.4736843
+655,Doctapp - Medical & Dental Students Companion,com.student_companion,['EDUCATION'],4.4886365
+656,Medical Books,medical.books,['EDUCATION'],4.07
+657,MedicalBookPDF,com.appsforyouzahid.MedicalBookPDF,['EDUCATION'],4.06
+658,healow,com.ecw.healow,['HEALTH_AND_FITNESS'],4.0492105
+659,MyCLNQ,com.ssivixlab.MYCLNQ,['HEALTH_AND_FITNESS'],4.8190475
+660,Baby Care games - mini baby games for boys & girls,com.gamesforkids.babygames.babycare,['GAME_EDUCATIONAL'],4.3762374
+661,OK Play: Create. Play. Share.,com.okco.okplay,['EDUCATION'],4.3095236
+662,Mira: Trauma and PTSD Support,org.miratx.app,['HEALTH_AND_FITNESS'],4.207547
+663,Toca Life: Hospital,com.tocaboca.tocahospital,['EDUCATION'],4.1119633
+664,Grade 6 Common Core Math Test & Practice 2020,effortlessmath.commoncore6th,['EDUCATION'],4.12
+665,Grade 8 STAAR Math Test & Practice 2020,effortlessmath.staar8th,['EDUCATION'],4.16
+666,"SpeedyPaper: Essay Writer Help, Homework Helper",com.speedyadviser,['EDUCATION'],4.2376237
+667,Edusat Learning,com.edusat.courses,['EDUCATION'],4.9038463
+668,SMART math exercises for basic school pupils,com.vizuali.smart,['EDUCATION'],4.090909
+669,Zabanyad | زبانیاد,com.farabeen.zabanyad.google,['EDUCATION'],4.84
+670,Learn Bengali Quickly Free,com.altergyan.learnbengaliquicklyfree,['EDUCATION'],4.1994047
+671,Alive: Fire  Scenarios,com.alive.firescenarios,['EDUCATION'],4.571429
+672,Learn Tamil Quickly,com.altergyan.learntamilquickly,['EDUCATION'],4.3407135
+673,Learn Akan,com.sibylsystems.learn_akan,['EDUCATION'],4.48
+674,AugLi - Fun interactive way to build future skills,com.augli,['EDUCATION'],4.37
+675,Learn Pacing FREE,com.VirtualRnLLC.LearnPacing,['EDUCATION'],4.125
+676,St John Ambulance First Aid,com.sja.firstaid,['HEALTH_AND_FITNESS'],4.6
+677,"ACT Prep: Practice Tests, Flashcards, Quizzes",com.varsitytutors.learningtools.act,['EDUCATION'],4.43
+678,Critical Thinking and Reflective Practices,com.sqsapps.crit_think_reflect_pract,['EDUCATION'],4.6666665
+679,Certification Questions – Free Exams & Dumps,com.certquestions.mobile.app,['EDUCATION'],4.62
+680,Coding Dojo - Improve your programming logic,com.traveltest.coding_dojo_app,['EDUCATION'],4.730769
+681,LogIQids: Learning Activity to Boost your kids IQ,com.logiqids,['EDUCATION'],4.607143
+682,"Logical Reasoning Test : Practice, Tips & Tricks",nithra.math.logicalreasoning,['EDUCATION'],4.4285398
+683,Logical & reasoning question for all exam of 2021,com.logicalandreasoning.exam2021,['EDUCATION'],4.2894735
+684,Teacher Interview question answers,com.techseers.teacherinterviewquestionanswers,['EDUCATION'],4.26
+685,makeITsimpleTT,com.makeITsimpleTT.makeitsimplefirstapp,['EDUCATION'],4.7727275
+686,LiveBoard Interactive Whiteboard App,com.inconceptlabs.liveboard,['EDUCATION'],4.4244413
+687,Teacher App : Live teaching app for teachers,com.bodhiaiteacherflutter.in,['EDUCATION'],4.1764708
+688,Wise - Online Teaching app,com.wise.app,['EDUCATION'],4.0676413
+689,Teaching Methods Quiz,com.teachingmethodsquiz.iscdeveloper,['EDUCATION'],4.428571
+690,"Kohbee: Teach online, Free Online Teaching app",com.Kohbee.live,['EDUCATION'],4.71
+691,General Methods of Teaching,com.sqsapps.general_method_of_teac,['EDUCATION'],4.0454545
+692,Assessment in Education,com.sqsapps.assessment_education,['EDUCATION'],4.5
+693,TeachApp,com.devyogis.teachapp,['EDUCATION'],4.5147057
+694,Psychology Quiz,com.sanaedutech.psychology,['EDUCATION'],4.5728154
+695,AP Psychology Prep: Practice Tests and Flashcards,com.varsitytutors.learningtools.appsychology,['EDUCATION'],4.46
+696,Education Psychology CTET REET PTET UTET,com.hifistudyhelp.Psychology,['EDUCATION'],4.6829267

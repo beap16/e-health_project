@@ -102,8 +102,8 @@ class game:
 #keywords_general = ['serious game']
 keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
 keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
-                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded',
-                    'down syndrome', 'motor', 'disabled', 'disability', 'disease', 'clinical', 'critical situations']
+                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
+                    'down syndrome', 'disabled', 'disability', 'clinical']
 #keywords_onetime = []
 
 # write a code that combines all the words, and then search for all the results
