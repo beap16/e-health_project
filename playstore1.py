@@ -8,6 +8,7 @@ from tinydb import TinyDB
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # le librerie sono: play-scraper, google-play-scraper, google-play-scraper-py, pandas, tinydb
+allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL', 'HEALTH_AND_FITNESS']
 
 def AddToDatabase(game_list, games_database):
     for games in game_list:
@@ -27,20 +28,26 @@ def AddToDatabase(game_list, games_database):
 
             print(url)
 
-            if(type(result['score']) is float):
-                if (type(result['contentRating']) is not None):
-                    if (result['score'] >= 4):
-                        if(result['contentRating'] == "Everyone"):
-                            games_database.append(game(games['title'], url, result['score'], result['contentRating']))
-                            print("added " + url)
+            details = play_scraper.details(url)
+            print(details['category'])
+            category = details['category']
+            if(allowed_categories.__contains__(category[0])):
+                if(type(result['score']) is float):
+                    if (type(result['contentRating']) is not None):
+                        if (result['score'] >= 4):
+                            if(result['contentRating'] == "Everyone"):
+                                games_database.append(game(games['title'], url, result['score'], result['contentRating']))
+                                print("added " + url)
+                            else:
+                                print("not for everyone " + result['contentRating'] + " " + url)
                         else:
-                            print("not for everyone " + result['contentRating'] + " " + url)
+                            print("score too low " + str(result['score']) + " " + url)
                     else:
-                        print("score too low " + str(result['score']) + " " + url)
+                        print("content rating missing " + url)
                 else:
-                    print("content rating missing " + url)
+                    print("score not found " + url)
             else:
-                print("score not found " + url)
+                print("not in the right category " + url)
 
     return games_database
 
@@ -70,10 +77,10 @@ all_games = []
 # RICERCA IN MANIERA SENSATA)
 
 keywords_general = ['serious game']
-#keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family']
+#keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
 #keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
 #                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded',
-#                    'down syndrome', 'motor']
+#                    'down syndrome', 'motor', 'disabled', 'disability', 'disease', 'clinical', 'critical situations']
 keywords_onetime = []
 # write a code that combines all the words, and then search for all the results
 
