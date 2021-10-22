@@ -4,11 +4,21 @@ import ssl
 import play_scraper
 from google_play_scraper import app, Sort, reviews_all
 from tinydb import TinyDB
+from time import sleep
 ##proviamo a fixare sta roba con ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # le librerie sono: play-scraper, google-play-scraper, google-play-scraper-py, pandas, tinydb
 allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL', 'HEALTH_AND_FITNESS', 'PARENTING']
+
+# let's create the columns of the final database.
+all_titles = []
+all_url = []
+all_rating = []
+all_categories = []
+
+# list that contains all the suitable games that we found using this script
+all_games = []
 
 def AddToDatabase(game_list, games_database):
     for games in game_list:
@@ -27,8 +37,16 @@ def AddToDatabase(game_list, games_database):
             )
 
             print(url)
+            goon = False
+            while (goon is False):
+                details = ""
+                try :
+                     details = play_scraper.details(url)
+                except:
+                    sleep(0.5)
+                if (len(details) > 5):
+                    goon = True
 
-            details = play_scraper.details(url)
             print(details['category'])
             category = details['category']
             if(allowed_categories.__contains__(category[0])):
@@ -36,7 +54,11 @@ def AddToDatabase(game_list, games_database):
                     if (type(result['contentRating']) is not None):
                         if (result['score'] >= 4):
                             if(result['contentRating'] == "Everyone"):
-                                games_database.append(game(games['title'], url, result['score'], result['contentRating'], category[0]))
+                                games_database.append(game(games['title'], url, result['score'], result['contentRating'], category))
+                                all_titles.append(games['title'])
+                                all_url.append(url)
+                                all_rating.append(result['score'])
+                                all_categories.append(category)
                                 print("added " + url)
                             else:
                                 print("not for everyone " + result['contentRating'] + " " + url)
@@ -72,35 +94,45 @@ class game:
         self.category = categoria
 
 
-# lista che contiene tutti i giochi trovati
-all_games = []
+
 
 # uso la libreria play_scraper per cercare nell'intero database di google play quelli educativi (BISOGNA ESPANDERE STA
 # RICERCA IN MANIERA SENSATA)
 
-keywords_general = ['serious game']
-#keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
-#keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
-                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
-                    'down syndrome', 'disabled', 'disability', 'clinical', 'specific learning disorder']
-keywords_onetime = []
-# write a code that combines all the words, and then search for all the results
+#keywords_general = ['serious game']
+keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
+keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
+                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'spastic', 'mentally retarded',
+                    'down syndrome', 'motor', 'disabled', 'disability', 'disease', 'clinical', 'critical situations']
+#keywords_onetime = []
 
+# write a code that combines all the words, and then search for all the results
 for word in keywords_general:
-    games_list = play_scraper.search(word)
-    # print(play_scraper.search(word))
-    # this_game = games_list[0]
-    # this_url = this_game['url'].split('/store/apps/details?id=')
-    # print(play_scraper.similar(this_url[1]))
-    # games_list.extend(play_scraper.similar(this_url[1]))
-    # print(len(games_list))
+    goon = False
+    while (goon is False) :
+        games_list=[]
+        try :
+            games_list = play_scraper.search(word)
+        except :
+            sleep (0.5)
+        if (len(games_list) > 1):
+            goon = True
+
     print(len(games_list))
     AddToDatabase(games_list, all_games)
 
 print('\n')
 
 for word in keywords_onetime:
-    games_list = play_scraper.search(word)
+    goon = False
+    while (goon is False):
+        games_list=[]
+        try:
+            games_list = play_scraper.search(word)
+        except :
+            sleep (0.5)
+        if (len(games_list) > 1):
+            goon = True
     AddToDatabase(games_list, all_games)
     for word2 in keywords_general:
         parola = word + ' ' + word2
@@ -109,8 +141,12 @@ for word in keywords_onetime:
 
 print(len(all_games))
 
-# Now use pandas to manage your dataset
-# Possible ready-to-use alternatives is to use access, sql, mongoDB
-# We will use TinyDB, a document oriented database. It uses a simple
+# Now we will use pandas to create the .csv final dataset
+result = {'Titles': all_titles,
+        'URL': all_url,
+        'Category': all_categories,
+        'Rating': all_rating }
+print(result)
+df = pd.DataFrame(result)
+df.to_csv('Database.txt')
 
-#db = TinyDB('./lab04DB.json')
