@@ -5,11 +5,26 @@ import play_scraper
 from google_play_scraper import app, Sort, reviews_all
 from tinydb import TinyDB
 from time import sleep
+import openpyxl
 ##proviamo a fixare sta roba con ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# le librerie sono: play-scraper, google-play-scraper, google-play-scraper-py, pandas, tinydb
-allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL', 'HEALTH_AND_FITNESS', 'PARENTING']
+# le librerie sono: play-scraper, google-play-scraper, google-play-scraper-py, pandas, tinydb, openpyxl
+
+#keywords_general_OLD = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
+#keywords_onetime_OLD = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
+#                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
+#                    'down syndrome', 'disabled', 'disability', 'clinical']
+
+keywords_general = ['serious game', 'game', 'children', 'educational', 'educative', 'pedagogical']
+keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'sen', 'specific learning needs',
+                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
+                    'down syndrome']
+
+allowed_categories = ['EDUCATION', 'FAMILY', 'FAMILY_EDUCATION', 'GAME_EDUCATIONAL']
+min_rating = 3.79
+max_results_per_search = 35 #integer number; max number allowed is 50
+
 
 # let's create the columns of the final database.
 all_titles = []
@@ -52,7 +67,7 @@ def AddToDatabase(game_list, games_database):
             if(allowed_categories.__contains__(category[0])):
                 if(type(result['score']) is float):
                     if (type(result['contentRating']) is not None):
-                        if (result['score'] >= 4):
+                        if (result['score'] >= min_rating):
                             if(result['contentRating'] == "Everyone"):
                                 games_database.append(game(games['title'], url, result['score'], result['contentRating'], category))
                                 all_titles.append(games['title'])
@@ -99,13 +114,6 @@ class game:
 # uso la libreria play_scraper per cercare nell'intero database di google play quelli educativi (BISOGNA ESPANDERE STA
 # RICERCA IN MANIERA SENSATA)
 
-#keywords_general = ['serious game']
-keywords_general = ['serious game', 'game', 'children', 'educational', 'learning', 'learn', 'educative', 'family', 'pedagogical']
-keywords_onetime = ['adhd', 'dyslexia', 'hyperactivity', 'autism', 'rehab', 'sen', 'specific learning needs',
-                    'dyscalculia', 'Behaviour Emotional Social Difficulty', 'mentally retarded',
-                    'down syndrome', 'disabled', 'disability', 'clinical']
-#keywords_onetime = []
-
 # write a code that combines all the words, and then search for all the results
 for word in keywords_general:
     goon = False
@@ -118,7 +126,7 @@ for word in keywords_general:
         if (len(games_list) > 1):
             goon = True
 
-    print(len(games_list))
+    games_list = games_list[0:max_results_per_search]
     AddToDatabase(games_list, all_games)
 
 print('\n')
@@ -133,10 +141,19 @@ for word in keywords_onetime:
             sleep (0.5)
         if (len(games_list) > 1):
             goon = True
+    games_list = games_list[0:max_results_per_search]
     AddToDatabase(games_list, all_games)
     for word2 in keywords_general:
-        parola = word + ' ' + word2
-        games_list = play_scraper.search(parola)
+        goon = False
+        while (goon is False):
+            parola = word + ' ' + word2
+            try:
+                games_list = play_scraper.search(parola)
+            except :
+                sleep (0.5)
+            if (len(games_list) > 1):
+                goon = True
+        games_list = games_list[0:max_results_per_search]
         AddToDatabase(games_list, all_games)
 
 print(len(all_games))
@@ -148,5 +165,5 @@ result = {'Titles': all_titles,
         'Rating': all_rating }
 print(result)
 df = pd.DataFrame(result)
-df.to_csv('Database.txt')
+df.to_excel('Database_v2.xlsx')
 
